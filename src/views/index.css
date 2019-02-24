@@ -1,0 +1,18 @@
+#contact{
+    
+    height: 70%;
+    width: 50%;
+    background-color: rgb(186, 190, 186);
+    text-align: center;
+}
+
+nav{
+    display: flex;
+}
+
+.navButton{
+    width: 50px;
+    height: 5px;
+    margin: 5px;
+}
+
